@@ -23,14 +23,12 @@ The model is evaluated on a curated 20% test split, achieving consistent metrics
 * **Recall:** ~0.78
 
 ## 📂 Repository Structure
-
 * `process.py`: The Spark engine (Cleaning, Feature Engineering, Training).
 * `app.py`: The Royal Aesthetic Dashboard (Visualization & UI).
 * `diabetes.csv`: The primary clinical dataset.
 * `requirements.txt`: Environment dependencies.
 
 ## 🚦 Installation & Usage
-
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/BhavaniPrasad-B/Diabetes-Risk-Prediction-PySpark.git](https://github.com/BhavaniPrasad-B/Diabetes-Risk-Prediction-PySpark.git)
